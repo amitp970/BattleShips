@@ -1,1 +1,2 @@
 # BattleShips
+A computer player
